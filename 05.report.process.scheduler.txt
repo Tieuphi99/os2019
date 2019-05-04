@@ -1,0 +1,15 @@
+ S  systemd-udevd   932       292.495086       652   120         0.000000       456.460933         0.000000 0 0 /autogroup-19
+ S systemd-logind  1214        30.185211      6315   120         0.000000       138.723259         0.000000 0 0 /autogroup-36
+ S        systemd  1614        32.807211       106   120         0.000000        63.309123         0.000000 0 0 /autogroup-82
+ Ssystemd-journal   921      1140.826576      1260   119         0.000000      1612.669817         0.000000 0 0 /autogroup-14
+ Ssystemd-timesyn  1192         2.328663        78   120         0.000000        26.123765         0.000000 0 0 /autogroup-29
+systemd (1, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :       4841648.987348
+se.vruntime                                  :           227.714819
+se.sum_exec_runtime                          :          5856.113960
+se.nr_migrations                             :                  312
+nr_switches                                  :                 2402
+nr_voluntary_switches                        :                 2063
+nr_involuntary_switches                      :                  339
+se.load.weight                               :              1048576
