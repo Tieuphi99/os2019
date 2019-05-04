@@ -1,0 +1,24 @@
+  PID TTY      STAT   TIME COMMAND
+ 1568 tty7     -      2:13 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+    - -        Ssl+   1:55 -
+    - -        Ssl+   0:00 -
+    - -        Ssl+   0:17 -
+ 1570 tty1     -      0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+    - -        Ss+    0:00 -
+ 5345 pts/0    -      0:00 bash
+    - -        Ss     0:00 -
+firefox
+2106
+Name:	firefox
+Umask:	0002
+State:	S (sleeping)
+Tgid:	2106
+Ngid:	0
+Pid:	2106
+PPid:	1948
+TracerPid:	0
+Uid:	999	999	999	999
+Gid:	999	999	999	999
+kill -s STOP 2106
+kill -s CONT 2106
+kill -s KILL 2106
