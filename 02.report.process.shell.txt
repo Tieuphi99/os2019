@@ -1,7 +1,0 @@
-list
-40 /etc/passwd
-              total        used        free      shared  buff/cache   available
-Mem:           3.8G        795M        252M        230M        2.7G        2.5G
-Swap:          2.0G          0B        2.0G
-index.jpg
-108 /proc/cpuinfo
