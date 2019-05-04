@@ -1,0 +1,7 @@
+list
+  40   71 2394 /etc/passwd
+              total        used        free      shared  buff/cache   available
+Mem:        8111816     1491744     5148180      325492     1471892     6037224
+Swap:             0           0           0
+108 736 4048 /proc/cpuinfo
+letter_a_PNG6.jpg
