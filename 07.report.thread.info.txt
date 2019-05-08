@@ -1,3 +1,5 @@
 NLWP
   70
 67
+ls /proc/2392/task | wc -l
+ps -o nlwp 2392
